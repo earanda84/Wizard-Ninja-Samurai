@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/bin/Debug/net7.0/Wizard-Ninja-Samurai
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/bin/Debug/net7.0/Wizard-Ninja-Samurai.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/bin/Debug/net7.0/Wizard-Ninja-Samurai.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/bin/Debug/net7.0/Wizard-Ninja-Samurai.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/bin/Debug/net7.0/Wizard-Ninja-Samurai.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/refint/Wizard-Ninja-Samurai.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/Wizard-Ninja-Samurai.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Wizard-Ninja-Samurai/obj/Debug/net7.0/ref/Wizard-Ninja-Samurai.dll
